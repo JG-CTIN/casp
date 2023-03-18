@@ -26,10 +26,11 @@ This section looks from the harm viewpoint e.g.
 - ransomware
 - theft
    - supplier payments
-   - suctomer payments
+   - customer payments
    - payroll
 - denial of service
 - dis-/mis information campaign
+- foreign information manipulation and influence (FIMI)
 - data breach
     - credit cards
     - medical
@@ -48,7 +49,7 @@ the use cases from the viewpoint
 of a particular cybersecurity technology
 (e.g. STIX). 
 These use cases should fit into the larger risk use cases
-which show how they word together.
+which show how they work together.
 
 The interfaces being looked at include:
 - STIX/TAXII
@@ -64,12 +65,13 @@ The interfaces being looked at include:
 - OCSF
 - OXA
 
+
 ### 1.2.1 STIX/TAXII
 blah blah to be filled in
 
 For example, 
 X.1215 is an ITU recommendation on STIX use cases
-{add link to reference} and contains a ransomware use case.
+{https://www.itu.int/rec/T-REC-X.1215/en} and contains a ransomware use case.
 That use case has it's own use case page 
 {add link to page - create page} 
 which is in the STIX section (3.) since it relates to STIX.
@@ -78,13 +80,20 @@ this detailed use case fits into the larger risk scenario
 with use cases for other interfaces.
 
 ### 1.2.2 CACAO 
-blah blah to be filled in
+CACAO definES a sequence of cyber defense actions that can be executed for each type of playbook. It will specifically enable organizations to:
+
+1. create course of action playbooks in a structured machine-readable format,
+2. digitally sign course of action playbooks,
+3. securely share course of action playbooks across organizational boundaries and technological solutions, and
+4. document processing instructions for course of action playbooks in a machine readable format.
 
 CACAO playbooks will be used to show the control flow of most,
-if not all,
-of the use cases.
+if not all, of the use cases.
 
-For example (put one in)
+For example, the specification provides a malware playbook exampled called "Malware FuzzyPanda"
+Playbook Example 1
+<img width="589" alt="Playbook FuzzyPanda" src="https://user-images.githubusercontent.com/14005876/226073392-ef39ec68-7cf6-4a69-8977-ee5c8147362e.png">
+[Do we want all of the playbook JSON code here or a pointer to the example?]
 
 ### 1.2.3 OCA/PACE
 blah blah to be filled in
