@@ -4,9 +4,12 @@
 
 # Announcement
 
-The next CASP event will be held June 13th, 2023 at USC and hybrid.
+The next CASP event will be held November 30, 2023 using Zoom. There will be two 2-hour sessions to be held at the following times:
+* 11:00 am EDT to 1:00 am EDT (for US and EU participants)
+* 8:00 pm EDT to 10:00 pm EDT (for US and Asia/Pacific participants).
 
 For more details, 
+the previous PlugFest was held May 21st, 2023 at the USC Campus.
 see the [NextPlugFest subdirectory](./Plugfests/NextPlugfest/2023-06-13-USC/README.md)
 and participate in the [CASP mailing list](https://lists.oasis-open-projects.org/g/oca-casp).
 
